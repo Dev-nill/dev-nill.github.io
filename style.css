@@ -1,4 +1,6 @@
 .figure{
   width: 200px;
-  
-}
+  }
+  body{
+    background-color: rgb(182, 144, 217);
+  }
